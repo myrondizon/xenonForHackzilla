@@ -1,6 +1,6 @@
 # Xenon Shopping Assistant
 
-<b>What is Xenon SA? <b>
+<b>What is Xenon SA? </b>
 >Xenon is a mobile app that captures your wardrobe and suggests and a styled look for you. Wherein in also suggests item for purchase, and also suggests a look based from your wardrobe and dress code. 
 
 >The app partners with high-end fashion stores and local tailors. The tailors are of Filipino background to promote excellent Filipino craftsmanship in tailored apparel. The app acts as a data collector of consumers for retailers. The app acts as a potential marketplace for Filipino tailors to showcase their products. The app is geared towards the millennial who wants to be in style for the occasion.  
